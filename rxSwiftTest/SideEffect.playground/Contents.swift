@@ -11,7 +11,7 @@ example("SideEffect") {
   tempSeq.do(onNext: {
     print("\($0)F = ", terminator: "")
   }).map({
-    Double($0 - 32) * 5 / 9.0
+    [Double($0 - 32) * 5 / 9.0]
   }).subscribe(onNext: {
     print(String(format: "%.1f", $0))
   }).disposed(by: disposeBag)

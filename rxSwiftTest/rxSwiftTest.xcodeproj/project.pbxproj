@@ -27,6 +27,7 @@
 		7C1B979D248F963B00D9B062 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7C1B979F248F963B00D9B062 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7C43AACC248FF746009DFC0B /* SideEffect.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SideEffect.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		7C43AACD248FF9D1009DFC0B /* Schedulers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Schedulers.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		7C494095248F9AC70088093B /* Operators.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Operators.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		7CF10417248FEF8500D98358 /* Subjects.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Subjects.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		83507F05022D984E5459386D /* Pods-rxSwiftTest.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rxSwiftTest.release.xcconfig"; path = "Target Support Files/Pods-rxSwiftTest/Pods-rxSwiftTest.release.xcconfig"; sourceTree = "<group>"; };
@@ -68,6 +69,7 @@
 				7C494095248F9AC70088093B /* Operators.playground */,
 				7CF10417248FEF8500D98358 /* Subjects.playground */,
 				7C43AACC248FF746009DFC0B /* SideEffect.playground */,
+				7C43AACD248FF9D1009DFC0B /* Schedulers.playground */,
 				7C1B9790248F963600D9B062 /* rxSwiftTest */,
 				7C1B978F248F963600D9B062 /* Products */,
 				09A168F163A1F865DEC4D69F /* Pods */,
